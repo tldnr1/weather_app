@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "first react-native app",
+    "githubUrl": "https://github.com/tldnr1/weather_app"
   }
 }
